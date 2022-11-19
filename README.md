@@ -1,20 +1,20 @@
 # Welcome to My Square
-***
+
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+I didn't have a problem
 
 ## Description
-TODO - How have you solved the problem?
+I solved the problem with  peer to peer
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I didn't install any npm
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+this working with file
+
+
+
 
 ### The Core Team
 
